@@ -32,7 +32,7 @@
 
 
 
-![img](data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg==)
+![img](https://mmbiz.qpic.cn/mmbiz_png/fllulVJePuyr9c8ocb1l9kfT4H15PctOq5KQv3SRTzrA4fTjHpdrccwZonCnq7MKRmSxbXcXKFbugDLAnlAsQA/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
 2
 
@@ -64,9 +64,7 @@ python是一门面向对象的语音，面向对象是重要的编程思想，�
 
 ![img](https://mmbiz.qpic.cn/mmbiz_png/fllulVJePuyr9c8ocb1l9kfT4H15PctOn76NqN1MAQRMngeX1Gg1XiaibqvSSBoQ8lpWMjvssLXiav8WyCOvs140g/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
-![img](data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg==)
 
-4
 
 **网络编程和多线程**
 
@@ -106,15 +104,10 @@ HTML和Javascript也是机器人工程师必备的技术，而不只是软件工
 
  where,order,group,分页,连接查询,外键,视图,事务, 索引 等数据操作技术。
 
-![img](data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg==)
+![img](https://mmbiz.qpic.cn/mmbiz_gif/fllulVJePuyr9c8ocb1l9kfT4H15PctO0Z5glUWZXx8mlKyia5KBVict9HOpHFog7SwhKnT9vRs8eRFXpFjM0rxg/640?wx_fmt=gif&tp=webp&wxfrom=5&wx_lazy=1)
 
 
 
-\-----
-
-![img](data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg==)
-
-\-----
 
 到这里
 
@@ -165,7 +158,7 @@ IT行业的程序员都会争论高级语言和低级语言哪个好，Linux和W
 
 
 
-![img](data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg==)
+
 
 **8**
 
@@ -209,7 +202,7 @@ ROS（ Robot Operating System，机器人操作系统）诞生于2007年，并�
 
 谷歌、亚马逊、微软等众多知名公司已经广泛使用ROS系统，**熟练掌握ROS操作系统，已经成为机器人开发的重要一环**， 猎聘网上搜索ROS关键字， 大多数岗位起步月薪到达到1.5~2万元。
 
-![img](data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg==)
+
 
 第十周：
 
@@ -229,9 +222,6 @@ ROS在消费级领域应用比较多，但是在条件苛刻的工业级场景�
 
 第十一周效果：
 
-![img](data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg==)
-
-![img](data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg==)
 
 ![img](https://mmbiz.qpic.cn/mmbiz_png/fllulVJePuyr9c8ocb1l9kfT4H15PctOVTia7rMSuH3KSLUfIliaAI0via5t2W0x2nPgqFesa6FCl1Y1vqibRFrzcA/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
@@ -263,7 +253,6 @@ ROS在消费级领域应用比较多，但是在条件苛刻的工业级场景�
 
 自动驾驶，车道线识别。
 
-![img](data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg==)
 
 ![img](https://mmbiz.qpic.cn/mmbiz_gif/fllulVJePuyr9c8ocb1l9kfT4H15PctOXTBrt2PUyNiblPQkSER8c5LEICjmRCaaEicqfadr8EGP0IxQmrZiaHecA/640?wx_fmt=gif&tp=webp&wxfrom=5&wx_lazy=1)
 
@@ -295,7 +284,6 @@ ROS在消费级领域应用比较多，但是在条件苛刻的工业级场景�
 
 生活垃圾分类，交通标志识别，人类表情感情识别等。
 
-![img](data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg==)
 
 
 
@@ -367,8 +355,6 @@ SLAM是Simultaneous localization and mapping缩写，意为“同步定位与建
 
 
 
-![img](data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg==)
-
 **19**
 
 **综合项目实战-机器人跟随**
@@ -403,8 +389,9 @@ SLAM是Simultaneous localization and mapping缩写，意为“同步定位与建
 
 
 
+笔记地址 ： http://www.itheima.org
+立刻报名： http://www.itheima.com/special/robotzly/index.html
 
 
-[笔记地址]: http://www.itheima.org
-[立刻报名]: http://www.itheima.com/special/robotzly/index.html
+
 
